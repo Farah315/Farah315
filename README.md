@@ -12,7 +12,6 @@ I also enjoy mixing front-end and database tech — **SQL**, **HTML**, **CSS**, 
 
 - Currently improving my Android and Kotlin skills while exploring clean architecture and design patterns  
 - Passionate about writing clean, maintainable code that scales  
-- Reach out anytime: [farah.53kh1@hotmail.com]  
 -  Let’s connect on [LinkedIn](https://www.linkedin.com/in/farah-tabal)
 ---
 
