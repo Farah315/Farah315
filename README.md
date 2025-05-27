@@ -29,7 +29,7 @@ I also enjoy mixing front-end and database technologies — **SQL**, **HTML**, *
 ---
 
 <details open>
-  <summary><h2>🧰 Languages & Tools:</h2></summary>
+  <summary><h2> 🧰 Languages & Tools:</h2></summary>
   <p align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px" alt="Python" title="Python"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
