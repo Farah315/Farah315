@@ -14,20 +14,6 @@ I also enjoy mixing front-end and database technologies — **SQL**, **HTML**, *
 - Passionate about writing clean, maintainable code that scales  
 - Let’s connect on [LinkedIn](https://www.linkedin.com/in/farah-tabal)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farah315&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400">
-  &emsp;&emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah315&layout=compact&theme=react&hide_border=false" width="400">
-  &emsp;&emsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farah315&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400">
-</p>
-
----
-
 <details open>
   <summary><h2> 🧰 Languages & Tools:</h2></summary>
   <p align="center">
