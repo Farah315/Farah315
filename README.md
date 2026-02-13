@@ -19,10 +19,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJzMHJ6M2IxNjFnaXhwYTBkbjN2MWt5ejdodnBqZ3JycnN1dXczMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif"  />
-
-###
-
 <p align="left">Android Developer building mobile applications with Kotlin and Jetpack Compose. I focus on writing clean, maintainable code following modern architecture patterns like MVVM and Clean Architecture.</p>
 
 ###
